@@ -1,0 +1,16 @@
+{  
+   "profiles":[  
+      {  
+         "avatarIndex": 1,
+         "avatarName": "2º Jugador"
+      },
+      {  
+         "avatarIndex": 12,
+         "avatarName": "3º Jugador"
+      },
+      {  
+         "avatarIndex": 3,
+         "avatarName": "4º Jugador"
+      }
+   ]
+}
